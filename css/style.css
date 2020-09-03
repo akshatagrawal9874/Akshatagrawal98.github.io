@@ -760,10 +760,10 @@ footer .footer-social ul li:hover span:nth-child(1){
     color: cyan;
 }
 @keyframes changetext{
-    0%{content: "Competitive Programmer";}
-    16%{content: "Learner";}
-    32%{content: "Java Developer";}
-    48%{content: "Android Developer";}
+    0%{content: "am Competitive Programmer";}
+    16%{content: "am Learner";}
+    32%{content: "am Java Developer";}
+    48%{content: "am Android Developer";}
      70%{content: "want to be Full-Stack Developer";}
      100%{content: "want to be Software Engineer";}
 
